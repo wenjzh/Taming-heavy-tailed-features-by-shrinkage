@@ -1,7 +1,7 @@
 # This script implements numerical study on MNIST dataset. The main idea is to compare 
 # the classification performance from original CNN and CNN with a l4-norm shrinkage layer.
 
-# Arthor: Wenjing Zhou, Ziwei Zhu
+# Author: Wenjing Zhou, Ziwei Zhu
 # Last modified date: 06/07/2020
 
 import warnings

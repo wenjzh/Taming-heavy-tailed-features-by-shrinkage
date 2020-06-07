@@ -1,5 +1,6 @@
 # This script is used to analyze heavy-tailed features from CNN
-# via calculating Kurtosis value and QQ plot.
+# via calculating Kurtosis value and QQ plot. The following code
+# has to be run after the MNIST_experiment.py.
 #
 # Author: Wenjing Zhou
 # Last modified date: 06/07/2020
